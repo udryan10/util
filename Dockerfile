@@ -8,6 +8,7 @@ RUN yum install -y \
                    curl \ 
                    gcc \
                    gcc-c++ \
+                   git \
                    golang \
                    java-1.8.0-openjdk \
                    mysql \
