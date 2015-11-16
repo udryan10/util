@@ -19,6 +19,7 @@ RUN yum install -y \
                    ruby \
                    ruby-devel \
                    rsync \
+                   svn \
                    telnet \
                    vim \  
                    wget 
