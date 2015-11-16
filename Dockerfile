@@ -15,6 +15,7 @@ RUN yum install -y \
                    nmap \
                    nodejs \
                    openssl \
+                   python-pip \
                    ruby \
                    ruby-devel \
                    rsync \
